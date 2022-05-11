@@ -1,0 +1,41 @@
+.header-logo{
+    text-align: center;
+}
+.header-logo img{
+    width: 400px;
+
+}
+.nav-bar{
+    background-color: black;
+    line-height: 30px;
+    display: flex;
+    padding-left: 20px;
+    align-items:flex-start;
+    
+
+}
+.nav-bar a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    padding:5px 10px;
+
+}
+.nav-bar a:hover{
+    background-color: lightgray;
+}
+.nav-bottom{
+    background-color: rgb(62, 56, 56);
+    padding: 20px 0px;
+}
+
+.input-box{
+    width: 75%;
+    height: 20px;
+  
+    margin-right: 10px;
+}
+.icon{
+    color: white;
+    
+}
